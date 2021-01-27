@@ -7,3 +7,5 @@ with HTML and CSS. I decided I wanted to sharpen my skills in CSS so I tasked my
 I also did this so I could have more creativity when designing the webpage in Photoshop. 
 
 Tools Used: HTML, CSS, and Photoshop
+
+![alt text](https://imgur.com/a/ulob8XR)
