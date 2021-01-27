@@ -8,3 +8,5 @@ I also did this so I could have more creativity when designing the webpage in Ph
 
 Tools Used: HTML, CSS, and Photoshop
 
+
+![](WireFraming/Picture1.png)
