@@ -8,4 +8,3 @@ I also did this so I could have more creativity when designing the webpage in Ph
 
 Tools Used: HTML, CSS, and Photoshop
 
-![alt text](https://imgur.com/a/ulob8XR)
